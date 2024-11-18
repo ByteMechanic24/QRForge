@@ -1,0 +1,14 @@
+# Compiled binary
+qr
+qr.exe
+*.o
+*.obj
+
+# Output files
+out.png
+
+# IDE/Editor files
+.vscode/
+*.swp
+*.swo
+*~
